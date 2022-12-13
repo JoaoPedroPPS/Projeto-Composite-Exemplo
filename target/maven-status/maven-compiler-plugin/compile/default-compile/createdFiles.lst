@@ -1,0 +1,5 @@
+model\FinancialDepartment.class
+model\SalesDepartment.class
+model\Department.class
+com\mycompany\projeto\composite\ProjetoComposite.class
+model\HeadDepartment.class
